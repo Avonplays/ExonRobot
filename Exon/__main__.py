@@ -47,12 +47,12 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text=f"🚁 ʜᴇʟᴘ 🚁", callback_data="help_back"),
-        InlineKeyboardButton(text="🦋 ᴠᴄ ᴄᴏɴᴛʀᴏʟ 🦋", callback_data="settings_back_helper"),
+        InlineKeyboardButton(text=f" ʜᴇʟᴘ ", callback_data="help_back"),
+        InlineKeyboardButton(text=" ᴠᴄ ᴄᴏɴᴛʀᴏʟ ", callback_data="settings_back_helper"),
     ],
     [
-        InlineKeyboardButton(text="🏡 ᴀʙᴏᴜᴛ 🏡", callback_data="ABG_"),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text=" ᴀʙᴏᴜᴛ ", callback_data="ABG_"),
+        InlineKeyboardButton(text=" sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/RADICALS19")
     ],
 ]       
 
