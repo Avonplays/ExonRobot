@@ -43,11 +43,11 @@ PM_START_TEX = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="❣ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ❣︎", url=f"t.me/{BOT_USERNAME}?startgroup=new"
+            text="⛩ sᴜᴍᴍᴏɴ ᴍᴇ ⛩ ", url=f"t.me/{BOT_USERNAME}?startgroup=new"
         ),
     ],
     [
-        InlineKeyboardButton(text=f" ʜᴇʟᴘ ", callback_data="help_back"),
+        InlineKeyboardButton(text=f" ⚡ᴄᴏᴍᴍᴀɴᴅs⚡ ", callback_data="help_back"),
         InlineKeyboardButton(text=" ᴠᴄ ᴄᴏɴᴛʀᴏʟ ", callback_data="settings_back_helper"),
     ],
     [
