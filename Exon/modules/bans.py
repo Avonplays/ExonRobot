@@ -16,7 +16,6 @@ from NekoRobot import (
     DEV_USERS,
     DRAGONS,
     LOGGER,
-    NEKO_PTB,
     OWNER_ID,
     TIGERS,
     WOLVES,
