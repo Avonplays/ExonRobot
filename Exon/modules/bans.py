@@ -11,7 +11,7 @@ from telegram.error import BadRequest
 from telegram.ext import CallbackContext, CallbackQueryHandler, CommandHandler, Filters
 from telegram.utils.helpers import mention_html
 
-from NekoRobot import (
+from ExonRobot import (
     DEMONS,
     DEV_USERS,
     DRAGONS,
