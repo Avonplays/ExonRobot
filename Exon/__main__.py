@@ -37,9 +37,6 @@ from Exon.modules.language import gs
 
 PM_START_TEX = """
 🌟 ʜᴏʟᴀ `{}` . . . 
-"""
-
-PM_START_TEXT = """
 **ɪ ᴀᴍ ᴍᴀᴅᴀʀᴀ**, 💀[ㅤ](https://graph.org/file/2904688233933fd7e64fc.mp4)
 ×⋆✦⋆──────────────⋆✦⋆×
 ×**ɪ ᴀᴍ ᴀ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ɢʀᴏᴜᴘ 
