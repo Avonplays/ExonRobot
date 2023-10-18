@@ -28,9 +28,9 @@ from pyrogram import filters
 # This plugin is ported from https://github.com/thehamkercat/WilliamButcherBot
 from search_engine_parser import GoogleSearch
 
-from DaisyX.modules.utils.fetch import fetch
-from DaisyX.services.events import register
-from DaisyX.services.pyrogram import pbot as app
+from ExonRobot.modules.utils.fetch import fetch
+from ExonRobot.services.events import register
+from EzonRobot.services.pyrogram import pbot as app
 
 ARQ = "https://thearq.tech/"
 
@@ -271,7 +271,7 @@ async def apk(e):
             + app_link
             + "'>View in Play Store</a>"
         )
-        app_details += "\n\n===> @DaisySupport_Official <==="
+        app_details += "\n\n===> @Radicals19 <==="
         await e.reply(app_details, link_preview=True, parse_mode="HTML")
     except IndexError:
         await e.reply("No result found in search. Please enter **Valid app name**")
